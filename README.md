@@ -12,6 +12,7 @@ chiedere all'utente una parola poi creare una funzione per capire se la parola Ã
 
 - prompt "Inserisci la parola"
 - inverti la parola 
+- converti la parola in minuscolo
 - confronta la parola oricinale con quella invertita 
     - se l'originale e uguale a quella invertita 
         - stampa "la parola e palindroma"
