@@ -18,3 +18,19 @@ chiedere all'utente una parola poi creare una funzione per capire se la parola �
         - stampa "la parola e palindroma"
     - altrimenti 
         - stampa "la parola non e palintroma"
+
+# Pari e Dispari
+L’utente sceglie pari o dispari e inserisce un numero da 1 a 5.
+Generiamo un numero random (sempre da 1 a 5) per il computer (usando una funzione).
+Sommiamo i due numeri
+Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione)
+Dichiariamo chi ha vinto.
+
+### pseudocodice 
+
+- l'utente sceglie pari o dispari 
+- l'utente scieglie un numero da 1 a 5 
+- genera un numero da 1 a 5 per il computer
+- somma i due numeri 
+- crea una funzione per veriificare se la somma e pari o dispari 
+- stampa il vincitore 
