@@ -29,7 +29,9 @@ Dichiariamo chi ha vinto.
 ### pseudocodice 
 
 - l'utente sceglie pari o dispari 
+- crea una funzione che controlli se l'utente a scelto davvoro pari o dispari
 - l'utente scieglie un numero da 1 a 5 
+- crea una funzione che controlli se l'utente a scelto un numero da 1 a 5
 - genera un numero da 1 a 5 per il computer
 - somma i due numeri 
 - crea una funzione per veriificare se la somma e pari o dispari 
